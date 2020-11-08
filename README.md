@@ -1,18 +1,24 @@
-# psandro.eu
-This is my website: [www.psandro.eu](https://www.psandro.eu/)
+# sandropischinger.de
 
----
-This is my website. Its purpose is to provide verry little information about who I am and what I 
-do and - of course - important links like github, stackoverflow, bitbucket and so on.
+## Project setup
+```
+npm install
+```
 
-This site gets automatically deployed by https://www.netlify.com/
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-Contributing?
----
-I am horribly bad at frontend stuff. If you are familiar with web developement, its likely that your eyes start bleeding
-by viewing my code. So please HELP ME!! to make this site viewable by contributing here.
-Just fork this repo and create a Pull request. Thank you :heart:
+### Compiles and minifies for production
+```
+npm run build
+```
 
-Licensing
----
-This project is licensed under the [MIT](/LICENSE) license.
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
